@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/chelsea/Goose/lib/goose"
+	"bitbucket.org/mudiarto/goose/lib/goose"
 	"flag"
 	"fmt"
 	"os"
